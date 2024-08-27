@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://paronski.github.io/sitemap.html.gz
+Sitemap: https://paronski.github.io/app/sitemap.html.gz
+Sitemap: https://paronski.github.io/assets/sitemap.html.gz
+Sitemap: https://paronski.github.io/css/sitemap.html.gz
+Sitemap: https://paronski.github.io/includes/sitemap.html.gz
+Sitemap: https://paronski.github.io/item/sitemap.html.gz
+Sitemap: https://paronski.github.io/src/sitemap.html.gz
